@@ -74,7 +74,7 @@ python asteria_sim.py
 
 For the complete architecture, mathematical formulation, algorithms, experimental validation, and future development plans:
 
-**[📘 Read the Full Project Report](".report/project_report.pdf")**
+**[📘 Read the Full Project Report]("report/project_report.pdf")**
 
 ## 🔭 Future Work
 
