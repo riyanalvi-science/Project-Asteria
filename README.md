@@ -89,4 +89,4 @@ For the complete architecture, mathematical formulation, algorithms, experimenta
 **Riyan Alvi**
 Indian Institute of Science Education and Research Mohali
 
-> **Explore. Adapt. Survive.**
+
