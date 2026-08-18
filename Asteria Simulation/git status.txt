@@ -1,0 +1,12 @@
+git status
+git add "filename"
+git add --all (all code)
+git commit -m "update"
+git push origin branchname
+
+
+
+git fetch --all // fetch the branch names
+git branch -r // all branches will be displayed in the terminal
+
+readme file 

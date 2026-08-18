@@ -1,0 +1,52 @@
+# Screen
+
+WIDTH = 1000
+HEIGHT = 700
+
+
+# World
+
+WORLD_WIDTH = 3000
+WORLD_HEIGHT = 3000
+
+
+
+# Game
+
+FPS = 60
+
+
+
+# Terrain
+
+TILE_SIZE = 50
+
+MAP_WIDTH = WORLD_WIDTH // TILE_SIZE
+
+MAP_HEIGHT = WORLD_HEIGHT // TILE_SIZE
+
+
+
+# Robot
+
+ROBOT_RADIUS = 15
+
+ROBOT_SPEED = 5
+
+ROBOT_ROTATION_SPEED = 5
+
+
+
+# Colors
+
+WHITE = (255, 255, 255)
+
+BLACK = (0, 0, 0)
+
+RED = (255, 0, 0)
+
+BLUE = (0, 0, 255)
+
+GREEN = (0, 180, 0)
+
+GRAY = (120, 120, 120)
